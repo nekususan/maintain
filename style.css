@@ -3,7 +3,9 @@ h1 {
   }
 
 #basicstyle {
-    padding: 10px;
+    padding-top: 7px;
+    padding-left: 400px;
+    padding-right: 400px;
 }
 
 #navistyle {
